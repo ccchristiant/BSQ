@@ -69,7 +69,7 @@ are still several solutions, choose the square to the left.
 ```
 
 ### ∇ Terminal - + x
-
+```
 ∼/B-CPE-110> ./bsq example_file
 .....xxxxxxx................
 ....oxxxxxxx................
@@ -80,7 +80,7 @@ are still several solutions, choose the square to the left.
 .....xxxxxxx................
 ......o...............o.....
 ..o.......o.................
-
+```
 ```
 It’s definitely a square, even if visually it doesn’t look like one.
 ```
